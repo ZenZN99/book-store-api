@@ -1,9 +1,5 @@
 # 📚 Book Store API – NestJS E-commerce Backend
 
-![React](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-
 ## 🚀 Project Overview
 **Book Store API** is a professional back-end application built with **NestJS** for managing an online book store.  
 It provides a complete system including users, books, carts, cart items, and financial transactions with role-based access control (User / Admin).
